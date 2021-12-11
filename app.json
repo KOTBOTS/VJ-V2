@@ -40,7 +40,7 @@
         },
         "FORCE_CHANNEL": {
             "description": "FORCE_CHANNEL Your Update Channel (without @)",
-            "value": "MO_TECH_YT"
+            "value": "KOT_BOTS"
         },
         "CUSTOM_CAPTION": {
             "description": "file Custom Caption",
@@ -49,17 +49,17 @@
         },
         "BOT_USERNAME": {
             "description": "BOT_USERNAME Your Bot User Name From Botfather",
-            "value": "DonLee_Robot",
+            "value": "KOT_MOVIES_FILTER_BOT",
             "required": false
         },
         "DEV_USERNAME": {
             "description": "Master (your) Telagarm Useraname from @MT_ID_Bot (Without @)",
-            "value": "Mrk_YT",
+            "value": "KOT_FREE_DE_LA_HOYA_OFF",
             "required": false
         },
         "DEV_NAME": {
             "description": "Your Name DEV_NAME",
-            "value": "𝖬𝗎𝗁𝖺𝗆𝗆𝖾𝖽",
+            "value": "KOT_BOTS",
             "required": false
         },
         "DEV_ID1": {
@@ -79,7 +79,7 @@
         },
         "FORCE_TEXT": {
             "description": "Force Text Demo (Your Not Join My Update Channel)",
-            "value": "ഹേയ് {} തായേ കാണുന്ന ചാനലിൽ നിങ്ങൾ ഇല്ല അത് കൊണ്ട് നിങ്ങൾക് സിനിമ കിട്ടില്ല...!    സിനിമ കിട്ടാനായി താഴെ കാണുന്ന 🔔 Join എന്ന ബട്ടനിൽ ക്ലിക്ക് ചെയ്തു ഞങ്ങളുടെ മെയിൻ ചാനലിൽ ജോയിൻ ചെയ്യുക എങ്കിൽ മാത്രമേ നിങ്ങൾക്ക് മൂവി ഈ ബോട്ട് വഴി ലഭിക്കുകയുള്ളു. അതു കഴ്ഞ്ഞു തായേ കാണുന്ന 👉'Try again'👈 എന്നുള്ളതിൽ ക്ലിക്ക് ചെയ്തു Start കൊടുത്താൽ നിങ്ങൾക്ക് മൂവി കിട്ടുന്നതാണ്...😁😁",
+            "value": " {} Yᴏᴜ Dɪᴅɴ'ᴛ Nᴏᴛ Jᴏɪɴ My Cʜᴀɴɴᴇʟ Jᴏɪɴ My Cʜᴀɴɴᴇʟ Aɴᴅ Tʀy Aɢᴀɪɴ ɪ Wɪʟʟ Wᴏʀᴋ : @KOT_BOTS",
             "required": false
         },
         "WELCOME_ENABLE_OR_DISABLE": {
