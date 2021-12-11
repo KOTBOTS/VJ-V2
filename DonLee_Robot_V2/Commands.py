@@ -132,14 +132,14 @@ async def about(bot: DonLee_Robot_V2, msg: Import.Msg):
 @DonLee_Robot_V2.on_message(filters.command(["sub", "subscribe"]) & filters.private, group=1)
 async def sub(bot: DonLee_Robot_V2, msg: Import.Msg):
         button = [[     
-          Import.Button("🖥️KOT LINKS TEAM", url="https://www.youtube.com/watch?v=NrbMc93aCzA"),
-          Import.Button("SUOPORT YOUTUBE 🤝", url="https://www.youtube.com/watch?v=NrbMc93aCzA")
+          Import.Button("🖥️KOT LINKS TEAM", url="https://t.me/KOT_LINKS_TEAM"),
+          Import.Button("SUOPORT YOUTUBE 🤝", url="https://youtube.com/channel/UCWBJ4ZVNc4kWoZKp5Y-byHA")
           ],[
-          Import.Button("📢UPDATE CHANNEL", url="https://www.youtube.com/watch?v=NrbMc93aCzA"),
-          Import.Button("ANY REPORT💞", url="https://www.youtube.com/watch?v=NrbMc93aCzA")
+          Import.Button("📢UPDATE CHANNEL", url="https://t.me/KOT_BOTS"),
+          Import.Button("ANY REPORT💞", url="https://t.me/KOT_REPORS")
           ],[
-          Import.Button("📦TELEGRAM", url="http://github.com/PR0FESS0R_99"),
-          Import.Button("𝖨𝗇𝗌𝗍𝖺😁", url="https://www.instagram.com/mrk_yt_")
+          Import.Button("📦TELEGRAM", url="http://t.me/KOT_FREE_DE_LA_HOYA_OFF"),
+          Import.Button("GITHUB😁", url="https://github.com/KOT-BOTS-REPO")
           ],[
           Import.Button("𝖢𝗅𝗈𝗌𝖾🗑️", callback_data="close")
           ]]                     
